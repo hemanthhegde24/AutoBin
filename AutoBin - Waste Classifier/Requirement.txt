@@ -1,0 +1,29 @@
+List of Items
+1)Dustbin(Transparent)(Stability???)
+2)Card board
+3)Scissors
+4)Fevicol etc
+5)Slots??(bottles/cardboard)
+6)Rashberry Pi(VNC)
+7)Camera module(Web cam??)
+8)Servo motor(4)(Can it handle the weight??)
+9)Bring all sensors and wires
+10)ULtrasonic sensor
+11)moisture sensor
+12)LED 
+14)Buzzer 
+15)Wedge???(Solid edge) or lower half opener
+16)Funnel??
+17)Plastic covers
+18)Liquid splashing
+24)Wifi module
+25)Battery for rashberry pi
+26)where does it fit in the dustbin(HW Znso4 battery)
+Software
+19)ML Model(from scratch using tensorflow)
+20)Is dataset balanced??
+21)If not wat metric will u use?(f1 score)
+22)How do u collect and add new images??
+23)how do we connect iot and ml using Program 
+27)Notification to local authority
+28)maybe website(quick waste classifier for public)

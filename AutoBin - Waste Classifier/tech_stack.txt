@@ -1,0 +1,21 @@
+Pros
+Computer Vision Segregation
+Basket ball hoop
+solt turning
+waste turning
+
+Cons
+Rain-inclination
+multiple obeject detection
+Camera cleaning
+Battery?
+
+
+Tech Stack
+3D solid edge for prototype
+Computer vision for segreagation(python)(colab)(CNN or Keras)
+arduino IDE(iot)
+sensors
+embeded C
+python
+
